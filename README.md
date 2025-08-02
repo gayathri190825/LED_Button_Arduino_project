@@ -33,9 +33,7 @@ Below is the circuit built using **Tinkercad**, with direct connections and no b
 
 ![Circuit Diagram](17541520832054854896522327921425.jpg)
 
-> 🔁 Save the above image as `circuit_diagram.png` and upload it to your GitHub repo folder.
 
----
 
 ## 💻 Arduino Code
 
