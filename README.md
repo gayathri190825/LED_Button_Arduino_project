@@ -30,8 +30,7 @@ This project demonstrates how to turn an LED on and off using a push button with
 ## 🖼️ Circuit Diagram
 
 Below is the circuit built using **Tinkercad**, with direct connections and no breadboard:
-
-![Circuit Diagram](17541520832054854896522327921425.jpg)
+![Circuit Diagram] IMG_20250802_220605.jpg
 
 
 
